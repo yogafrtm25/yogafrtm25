@@ -1,7 +1,7 @@
 <h1 align="center">Hai 👋, saya Yoga Pratama</h1>
 <h3 align="center">Saya Dari Indonesia</h3>
 
-<p align="left"> <img src="https: //komarev.com/ghpvc/?username=yogafrtm25&label=Profile%20views&color=0e75b6&style=flat" alt="yogafrtm25" /> </p>
+<a href="https://github.com/yogafrtm25" target="_blank"> 
 
 - 🌱 Saat ini saya sedang belajar **HTML,DJANGO**
 

@@ -3,7 +3,7 @@
 
 <a href="https://github.com/yogafrtm25" target="_blank"> 
 
-- 🌱 Saat ini saya sedang belajar **HTML,DJANGO**
+- 🌱 Saat ini saya sedang belajar **HTML,DJANGO,SQL DAN JS**
 
 - 📫 Cara hubungi saya **yogafrtm25@gmail.com**
 
